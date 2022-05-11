@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a58c04ca-772e-4c07-ab99-2ad0fc2c1af0" name="Changes" comment="m1_Variables_Constantes">
+    <list default="true" id="a58c04ca-772e-4c07-ab99-2ad0fc2c1af0" name="Changes" comment="m1_Variables_Constantes_DONE">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/m1_variables/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/m1_variables/Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652178599768</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="m1_Variables_Constantes_DONE">
+      <created>1652267295872</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652267295872</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,7 +115,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="m1_Variables_Constantes" />
-    <option name="LAST_COMMIT_MESSAGE" value="m1_Variables_Constantes" />
+    <MESSAGE value="m1_Variables_Constantes_DONE" />
+    <option name="LAST_COMMIT_MESSAGE" value="m1_Variables_Constantes_DONE" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
